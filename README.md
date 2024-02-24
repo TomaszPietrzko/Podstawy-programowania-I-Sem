@@ -1,2 +1,2 @@
 # Podstawy-programowania-I-Sem
-Kasa sklepowa - projekt zaliczeniowy wykonany przez studentów: Aleksander Chmielnicki oraz Tomasz Pietrzko
+Store checkout - a project made by students: Aleksander Chmielnicki and Tomasz Pietrzko
