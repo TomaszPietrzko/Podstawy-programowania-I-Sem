@@ -1,0 +1,52 @@
+[
+   {
+      "id":"001",
+      "produkt":"Masło extra",
+      "cena":6.50
+   },
+   {
+      "id":"002",
+      "produkt":"Chleb wiejski",
+      "cena":4.50
+   },
+   {
+      "id":"003",
+      "produkt":"Makaron Babuni",
+      "cena":9.20
+   },
+   {
+      "id":"004",
+      "produkt":"Dżem truskawkowy",
+      "cena":8.10
+   },
+   {
+      "id":"005",
+      "produkt":"Kiełbasa myśliwska",
+      "cena":29.00
+   },
+   {
+      "id":"006",
+      "produkt":"Szynka konserwowa",
+      "cena":22.00
+   },
+   {
+      "id":"007",
+      "produkt":"Chipsy paprykowe",
+      "cena":6.00
+   },
+   {
+      "id":"008",
+      "produkt":"Serek wiejski",
+      "cena":3.50
+   },
+   {
+      "id":"009",
+      "produkt":"Sól kuchenna",
+      "cena":2.70
+   },
+   {
+      "id":"010",
+      "produkt":"Cukier kryształ",
+      "cena":3.20
+   }
+]

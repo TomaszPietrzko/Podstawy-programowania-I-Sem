@@ -1,0 +1,28 @@
+C:\Users\aleks\Desktop\Kasa Sklepowa\Kasa sklepowa\Kasa sklepowa\obj\Debug\net7.0\Kasa sklepowa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aleks\Desktop\Kasa Sklepowa\Kasa sklepowa\Kasa sklepowa\obj\Debug\net7.0\Kasa sklepowa.AssemblyInfoInputs.cache
+C:\Users\aleks\Desktop\Kasa Sklepowa\Kasa sklepowa\Kasa sklepowa\obj\Debug\net7.0\Kasa sklepowa.AssemblyInfo.cs
+C:\Users\aleks\Desktop\Kasa Sklepowa\Kasa sklepowa\Kasa sklepowa\obj\Debug\net7.0\Kasa sklepowa.csproj.CoreCompileInputs.cache
+C:\Users\aleks\Desktop\Kasa Sklepowa\Kasa sklepowa\Kasa sklepowa\bin\Debug\net7.0\Kasa sklepowa.exe
+C:\Users\aleks\Desktop\Kasa Sklepowa\Kasa sklepowa\Kasa sklepowa\bin\Debug\net7.0\Kasa sklepowa.deps.json
+C:\Users\aleks\Desktop\Kasa Sklepowa\Kasa sklepowa\Kasa sklepowa\bin\Debug\net7.0\Kasa sklepowa.runtimeconfig.json
+C:\Users\aleks\Desktop\Kasa Sklepowa\Kasa sklepowa\Kasa sklepowa\bin\Debug\net7.0\Kasa sklepowa.dll
+C:\Users\aleks\Desktop\Kasa Sklepowa\Kasa sklepowa\Kasa sklepowa\bin\Debug\net7.0\Kasa sklepowa.pdb
+C:\Users\aleks\Desktop\Kasa Sklepowa\Kasa sklepowa\Kasa sklepowa\obj\Debug\net7.0\Kasa sklepowa.dll
+C:\Users\aleks\Desktop\Kasa Sklepowa\Kasa sklepowa\Kasa sklepowa\obj\Debug\net7.0\refint\Kasa sklepowa.dll
+C:\Users\aleks\Desktop\Kasa Sklepowa\Kasa sklepowa\Kasa sklepowa\obj\Debug\net7.0\Kasa sklepowa.pdb
+C:\Users\aleks\Desktop\Kasa Sklepowa\Kasa sklepowa\Kasa sklepowa\obj\Debug\net7.0\Kasa sklepowa.genruntimeconfig.cache
+C:\Users\aleks\Desktop\Kasa Sklepowa\Kasa sklepowa\Kasa sklepowa\obj\Debug\net7.0\ref\Kasa sklepowa.dll
+C:\Users\Tomasz\Desktop\Kasa sklepowa\Kasa sklepowa\bin\Debug\net7.0\Kasa sklepowa.exe
+C:\Users\Tomasz\Desktop\Kasa sklepowa\Kasa sklepowa\bin\Debug\net7.0\Kasa sklepowa.deps.json
+C:\Users\Tomasz\Desktop\Kasa sklepowa\Kasa sklepowa\bin\Debug\net7.0\Kasa sklepowa.runtimeconfig.json
+C:\Users\Tomasz\Desktop\Kasa sklepowa\Kasa sklepowa\bin\Debug\net7.0\Kasa sklepowa.dll
+C:\Users\Tomasz\Desktop\Kasa sklepowa\Kasa sklepowa\bin\Debug\net7.0\Kasa sklepowa.pdb
+C:\Users\Tomasz\Desktop\Kasa sklepowa\Kasa sklepowa\obj\Debug\net7.0\Kasa sklepowa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tomasz\Desktop\Kasa sklepowa\Kasa sklepowa\obj\Debug\net7.0\Kasa sklepowa.AssemblyInfoInputs.cache
+C:\Users\Tomasz\Desktop\Kasa sklepowa\Kasa sklepowa\obj\Debug\net7.0\Kasa sklepowa.AssemblyInfo.cs
+C:\Users\Tomasz\Desktop\Kasa sklepowa\Kasa sklepowa\obj\Debug\net7.0\Kasa sklepowa.csproj.CoreCompileInputs.cache
+C:\Users\Tomasz\Desktop\Kasa sklepowa\Kasa sklepowa\obj\Debug\net7.0\Kasa sklepowa.dll
+C:\Users\Tomasz\Desktop\Kasa sklepowa\Kasa sklepowa\obj\Debug\net7.0\refint\Kasa sklepowa.dll
+C:\Users\Tomasz\Desktop\Kasa sklepowa\Kasa sklepowa\obj\Debug\net7.0\Kasa sklepowa.pdb
+C:\Users\Tomasz\Desktop\Kasa sklepowa\Kasa sklepowa\obj\Debug\net7.0\Kasa sklepowa.genruntimeconfig.cache
+C:\Users\Tomasz\Desktop\Kasa sklepowa\Kasa sklepowa\obj\Debug\net7.0\ref\Kasa sklepowa.dll
